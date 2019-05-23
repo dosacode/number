@@ -13,7 +13,7 @@ $number2 = rand(0,10);
 
 $number3 = $number1 + $number2;
 
-
+$choicenumber == 10;
 
 
 if ($number3 == $choicenumber) {
