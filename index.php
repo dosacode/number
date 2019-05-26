@@ -1,27 +1,27 @@
 <?php
-  /*$plus1 = 5;
-  $plus2 = 2;
+require ("./number.php");
 
-  $plus3 = $plus1 + $plus2;
-
-?>*/
-
-$number1 = rand(0,10);
-
-$number2 = rand(0,10);
-
-
-$number3 = $number1 + $number2;
-
-$choicenumber == 10;
-
-
-if ($number3 == $choicenumber) {
-  echo "せいかいだよ！";
-}else{
-  echo "まちがっているよ";
-}
-  // code...
-  ArrayAccess
 
 ?>
+<!DOCTYPE html>
+<html lang = "ja">
+<head>
+    <meta charset = "UFT-8">
+    <link rel="stylesheet" href="/Users/saico/Desktop/number/plus.css">
+    <link rel="stylesheet" href="/Users/saico/Desktop/number/index.php">
+
+  <title>けいさん</title>
+</head>
+<body>
+  <h1>Apple+</h1>
+      <form action = index13.php"　method" = "get">
+<!--<input type = “submit” name =“comment/“>-->
+  <div class="circle">
+    <span>？</span>
+    <?php echo $number1; ?>
+  </div>
+  <p>けいさんしてみよう。</p>
+      <button type ="submit" value ="送信">
+      </form>
+</body>
+</html>
